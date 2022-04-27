@@ -1,0 +1,58 @@
+<footer>
+  <div class="bg-light">
+ <!-- links to social media --> 
+ <div class="container">
+    <div class="row">
+      <div class="s-left col-lg-3 col-md-12 col-sm">
+          <!-- Socials -->
+          <h4 class="ps-3 pt-5 text-black">Find me on</h4>
+        <div class="pt-3 pb-3 ico text-black">
+          <a href="#"><i class="bi p-3 bi-instagram"></i></a>
+          <a href="#"><i class="bi p-3 bi-facebook"></i></a>
+          <a href="#"><i class="bi p-3 bi-twitter"></i></a>
+          <a href="#"><i class="bi p-3 bi-vimeo"></i></a>
+          <a href="#"><i class="bi p-3 bi-whatsapp"></i></a>
+        </div>
+        <!-- Navs -->
+        <div class="link-navs">
+         <h5 class="ps-3 pt-3 text-black">Menu</h5>
+         <ul class="text-black mt-3 mb-4">
+             <li><a href="">Home</a></li>
+             <li><a routerLink="/biography">Biography</a></li>
+             <li><a routerLink="/portrait">My works</a></li>
+             <li><a routerLink="/contact">Contact</a></li>
+         </ul>
+        </div>
+      </div>
+      <!-- Form Contact -->
+      <div class="s-right col-lg-5 col-md-12 col-sm text-white">
+          <h4 class="ps-1 pt-5 text-black">Contact me</h4>
+        <form class="mt-3 d-flex flex-column col-lg-11 col-md-12 col-sm" [formGroup]="contact" (ngSubmit)="submitForm()">
+            <input class="m-1" type="text" placeholder="Your First Name" formControlName="firstName">
+            <input class="m-1" type="text" placeholder="Your Last Name" formControlName="lastName">
+            <input class="m-1" type="text" placeholder="Your E-mail address" formControlName="eMail">
+            <textarea class="m-1" type="text" placeholder="Your Message" rows="3" formControlName="textArea"></textarea>
+            <div class="">
+              <input type="submit" class="send btn btn-dark border-0 ms-2 mt-1 mb-5 col-lg-3 col-sm" value="Send"></div>
+          </form>
+      </div>
+      <!-- Picture -->
+      <div class="s-last col-lg-4 col-md-12 col-sm">
+        <img class="p-5 text-center" src="assets/images/photographer.jpg" width="450px" alt="pic">
+        <h3></h3>
+    </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<!-- names at the end -->
+
+<div class="bg-dark">
+    <p class="text-center p-5 text-white"> Copyright &copy; 2022 - Kate, Andreas, Igor, Adrian</p>
+
+</div>
+  
+</footer>

@@ -1,0 +1,29 @@
+@media screen and (max-width: 577px) {
+    .contsm {
+        padding-left: -20px;
+        padding-right: -20px;
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+    .mbsm {
+        margin-bottom: 30px !important;
+    }
+}
+
+@media screen and (min-width: 577px) and (max-width: 769px) {
+    .mbsm {
+        margin-bottom: 10px;
+    }
+    .marsm {
+        margin-top: 15px !important;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 992px) {
+    .mbsm {
+        margin-bottom: 10px;
+    }
+    .marsm {
+        margin-top: 30px !important;
+    }
+}

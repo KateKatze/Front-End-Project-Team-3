@@ -1,0 +1,172 @@
+<mxfile host="65bd71144e">
+    <diagram id="5Ygddi6L7OqSEnyWEjJa" name="Page-1">
+        <mxGraphModel dx="1163" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="TASKS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="-200" width="620" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Kate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;" parent="1" source="4" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Andreas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Adrian" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" parent="1" source="6" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Igor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Portrait page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Monday" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="200" width="630" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Hero &amp;amp; main page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Navbar and links" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Tuesday" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="570" width="630" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="14:00 Meeting, Discussion" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="295" y="460" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=none;html=1;" parent="1" source="22" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Kate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;" parent="1" source="23" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Andreas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;" parent="1" source="24" target="28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Adrian" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;" parent="1" source="25" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Igor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Portrait page - need improvements,&lt;br&gt;Contact page - done.&lt;br&gt;Wedding page to make.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="750" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Hero - done, &lt;br&gt;Main page - minor impovements to make.&lt;br&gt;Studio photos page to make." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="750" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Footer - done,&lt;br&gt;Dancing page - minor improvements to make.&lt;br&gt;Bio page to make." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="750" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Navbar - fixing the burger-links,&lt;br&gt;Links - done.&lt;br&gt;Landscape and architecture pages to make.&lt;br&gt;Reviews." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="750" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="14:00 Meeting, Discussion" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="295" y="900" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Wednesday" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="1000" width="630" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="11:00 Meeting, Discussion" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="1089" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Presentation roles" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="1210" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="NavBar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="-110" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Main page + Hero" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="-30" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="50" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Biography page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="-110" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Portrait page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="-30" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Architecture page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="50" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Wedding page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="-110" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Dancing page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="50" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Studio page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="-30" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Landscape page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="-30" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="Contact page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="-110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Design and responsiveness of the project" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Kate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Igor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Adrian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Hero &amp;amp; main page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Typos, text correction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="1210" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="All pages: responsive, and looking fine" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="1210" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Making tasks from tuesday done" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="1210" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Thursday" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="1340" width="630" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="11:00 Meeting, presentation run" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="1440" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
